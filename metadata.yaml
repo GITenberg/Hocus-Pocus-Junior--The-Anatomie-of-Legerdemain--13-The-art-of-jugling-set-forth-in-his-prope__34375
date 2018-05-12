@@ -1,0 +1,45 @@
+_repo: Hocus-Pocus-Junior--The-Anatomie-of-Legerdemain--13-The-art-of-jugling-set-forth-in-his-prope__34375
+_version: 0.1.0
+alternative_title: Hocvs pocvs iunior
+contributor:
+  printer:
+    agent_name: Harper, Thomas
+    aliases:
+    - Harper, T. (Thomas)
+    - Harper, Tho. (Thomas)
+    deathdate: 1656
+    gutenberg_agent_id: '44085'
+    url: http://www.gutenberg.org/2009/agents/44085
+  publisher_contributor:
+    agent_name: Mab, Ralph
+    aliases:
+    - Mabb, Ralph
+    - Mabb, Raphe
+    gutenberg_agent_id: '44097'
+    url: http://www.gutenberg.org/2009/agents/44097
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2010-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34375'
+  lccn: '34010760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Magic tricks -- Early works to 1800'
+title: "Hocus Pocus Junior: The Anatomie of Legerdemain\r\nOr, the art of jugling\
+  \ set forth in his proper colours, fully, plainly, and exactly, so that an ignorant\
+  \ person may thereby learn the full perfection of the same, after a little practise."
+url: http://www.gutenberg.org/ebooks/34375
